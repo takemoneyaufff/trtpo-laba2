@@ -1,5 +1,5 @@
 # InternetRadio
-Online radio for Android .
+Online radio for PC .
 
 # Требования к проекту
 # 1. Введение
